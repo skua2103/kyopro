@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.vscode/
+*.out
+*.exe
+a.out
+a
+in.txt
+out.txt
